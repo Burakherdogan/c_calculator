@@ -1,5 +1,4 @@
 #include "complex_math.h"
-#include <stdio.h>
 //recursive
 int fact(int a){
     if(a==1){
