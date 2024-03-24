@@ -1,9 +1,3 @@
 {
-  "files.associations": {
-    "*.html": "html",
-    "trig_math.h": "c",
-    "complex_math.h": "c",
-    "stdio.h": "c"
-  },
   "C_Cpp_Runner.msvcBatchPath": ""
 }
