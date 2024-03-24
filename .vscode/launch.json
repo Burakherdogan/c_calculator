@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/burak/OneDrive/Masaüstü/c_calculator/basic_math",
-      "program": "c:/Users/burak/OneDrive/Masaüstü/c_calculator/basic_math/build/Debug/outDebug",
+      "cwd": "c:/Users/burak/OneDrive/Masaüstü/c_calculator",
+      "program": "c:/Users/burak/OneDrive/Masaüstü/c_calculator/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
